@@ -14,10 +14,10 @@
 
 
 ## Course Schedule
-#- **0001 - Introduction**
+# **0001 - Introduction**
 - **0002 - Data Model**
 - **0003 - The Relational Database Model**
-- **0004 - Entity Relationship Modeling**
+- **0004 - Entity-Relationship Modeling**
 - **0005 - Normalization of Database Tables**
   - Youtube Dustin Ormond (Playlist): [Normalization](https://www.youtube.com/playlist?list=PLyp-1WQY32mN6U6PUq9c977X9vyHxtohD)
 - **0006 - Structured Query Language (SQL)**
