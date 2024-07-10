@@ -1,6 +1,5 @@
 ## Course Information
-- **Subject Name:** Database Fundamentals
-- **Subject Code:** SEG 1201
+- **Subject Name:** Database Management System (DBMS)
 
 
 
@@ -23,6 +22,5 @@
 ### **0004 - Entity-Relationship Modeling**
 
 ### **0005 - Normalization of Database Tables**
-  - Youtube Dustin Ormond (Playlist): [Normalization](https://www.youtube.com/playlist?list=PLyp-1WQY32mN6U6PUq9c977X9vyHxtohD)
 
 ### **0006 - Structured Query Language (SQL)**
