@@ -13,11 +13,11 @@
 
 
 ## Course Schedule
-### **0001 - Introduction**
+**0001 - Introduction**
 
-### **0002 - Data Model**
+**0002 - Data Model**
 
-### **0003 - The Relational Database Model**
+**0003 - The Relational Database Model**
 
 ### **0004 - Entity-Relationship Modeling**
 
