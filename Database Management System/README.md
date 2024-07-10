@@ -19,8 +19,8 @@
 
 **0003 - The Relational Database Model**
 
-### **0004 - Entity-Relationship Modeling**
+**0004 - Entity-Relationship Modeling**
 
-### **0005 - Normalization of Database Tables**
+**0005 - Normalization of Database Tables**
 
-### **0006 - Structured Query Language (SQL)**
+**0006 - Structured Query Language (SQL)**
