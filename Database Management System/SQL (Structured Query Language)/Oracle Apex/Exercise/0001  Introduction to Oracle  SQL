@@ -1,15 +1,13 @@
-# Oracle Application Express (APEX) Exercises
-
-## Exercise 1: Student Table
+## Exercise 1 in Oracle Application Express (APEX)
 
 ### a) Create a table called `student` with the following attributes:
+- **name**: `VARCHAR2` with the size of 20 characters
+- **gender**: `CHAR` of 6 characters
+- **DOB**: `DATE`
+- **CGPA**: `NUMBER` with one decimal
 
-- `name` as `VARCHAR2` with the size of 20 characters
-- `gender` as `CHAR` of 6 characters
-- `DOB` as `DATE`
-- `CGPA` as `NUMBER` with one decimal
+**Answer:**
 
-#### Answer:
 ```sql
 CREATE TABLE student (
     name VARCHAR2(20),
