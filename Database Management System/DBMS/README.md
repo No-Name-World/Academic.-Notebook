@@ -14,6 +14,13 @@
 
 ## Course Schedule
 ### 0001 - Introduction
+Use the following videos on YouTube to consolidate your understanding of this chapter.
+- [Database Tutorial for Beginners](https://www.youtube.com/watch?v=wR0jg0eQsZA&t=248s)
+- [Database Fundamentals for Beginners | Database Tutorial](https://www.youtube.com/watch?v=sIi7IfiTIsA)
+- [What Are Databases and Why Do We Need Them?](https://www.youtube.com/watch?v=djEZeF4KTaM)
+- [Learn What is Database | Types of Database | DBMS](https://www.youtube.com/watch?v=j09EQ-xlh88)
+You may skip the non-relational database from 8:33 onwards
+
 
 ### 0002 - Data Model
 Use the following videos on YouTube to consolidate your understanding of this chapter.
