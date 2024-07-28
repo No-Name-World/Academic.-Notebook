@@ -1,5 +1,5 @@
 -- Question 1 (use tt_script-new.txt)
--- a) List the age of Clever's father and mother with the following heading (You can assume that Clever’s parent are both non-alive) 
+-- a) List the age of Clever's father and mother with the following heading (You can assume that Clever’s parent are both non-alive):
 -- Horse name, Father's Age, Mother's Age
 -- Answer:
 
