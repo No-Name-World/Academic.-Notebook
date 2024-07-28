@@ -52,3 +52,8 @@ Use the following videos on YouTube to consolidate your understanding of this ch
 - [Normalisation Process 2NF](https://www.youtube.com/watch?v=R7UblSu4744)
 - [Normalisation Process 2NF](https://www.youtube.com/watch?v=9L10Q1nAfyg)
 - [Normalisation Process 3NF](https://www.youtube.com/watch?v=_K7fcFQowy8)
+
+- [Anomalies](https://www.youtube.com/watch?v=xoTyrdT9SZI)
+- [Denormalisation](https://www.youtube.com/watch?v=T3cx09FINuU)
+- [Watch till 7:40 on Denormalisation](https://www.youtube.com/watch?v=sDdoQGSQCEY)
+
