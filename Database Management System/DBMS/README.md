@@ -13,18 +13,17 @@
 
 
 ## Course Schedule
-**0001 - Introduction**
+### 0001 - Introduction
 
-**0002 - Data Model**
+### 0002 - Data Model
 Use the following videos on YouTube to consolidate your understanding of this chapter.
-The Relational Model https://www.youtube.com/watch?v=PH17p5vORyk
-Relational Database Concepts https://www.youtube.com/watch?v=NvrpuBAMddw&t=63s
+- [The Relational Model](https://www.youtube.com/watch?v=PH17p5vORyk)
+- [Relational Database Concepts](https://www.youtube.com/watch?v=NvrpuBAMddw&t=63s)
 
-**0003 - The Relational Database Model**
+### 0003 - The Relational Database Model
 
-**0004 - Entity-Relationship Modeling**
+### 0004 - Entity-Relationship Modeling
 
-**0005 - Normalization of Database Tables**
+### 0005 - Normalization of Database Tables
 
-**0006 - Structured Query Language (SQL)**
-
+### 0006 - Structured Query Language (SQL)
