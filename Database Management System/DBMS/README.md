@@ -22,12 +22,20 @@ Use the following videos on YouTube to consolidate your understanding of this ch
 You may skip the non-relational database from 8:33 onwards
 
 
+
 ### 0002 - Data Model
 Use the following videos on YouTube to consolidate your understanding of this chapter.
+- [What is a data model?](https://www.youtube.com/watch?v=4qFZ-5i4GS8)
+- [Conceptual, logical and physical data model](https://www.youtube.com/watch?v=RJ9TpkWKyU0)
+- [Top Data Modelling Interview Q&A](https://www.youtube.com/watch?v=UdkQx9cgsTo)
+ (watch until 5:45)
+
+
+
+### 0003 - The Relational Database Model
 - [The Relational Model](https://www.youtube.com/watch?v=PH17p5vORyk)
 - [Relational Database Concepts](https://www.youtube.com/watch?v=NvrpuBAMddw&t=63s)
 
-### 0003 - The Relational Database Model
 
 ### 0004 - Entity-Relationship Modeling
 
