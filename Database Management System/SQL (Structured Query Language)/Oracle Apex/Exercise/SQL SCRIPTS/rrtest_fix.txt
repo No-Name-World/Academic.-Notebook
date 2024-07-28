@@ -1,0 +1,94 @@
+-------------------------------------------------------------------------------
+-- SEG1201 DB FUNDAMENTALS
+-- Rob Rental Database
+--
+-- SCRIPT NAME: rrtest.txt (Bug Available) --> rrtest_fix.txt (Already Debug)
+-- NOTE:
+-- You can check the current date setting in APEX setting 
+-- from Profile-->Preference-->Default date format
+-- (the profile icon is at the top right hand corner of APEX screen
+-------------------------------------------------------------------------------
+-- TABLE hire
+-- stores the hire data of the customers; paid_till refers to the date
+-- when the customer has paid till for the hired appliance. 
+-- For example, if paid_till is 2021/08/27 and date_ret is 2021/08/28,
+-- then there is an arrear of one day. This is seen as a customer debt
+
+-- TABLE appliance
+-- stores the stocks own by Rob Rental Shop. Each stock, known as
+-- appliance has one model code.
+
+-- TABLE model
+-- store the model of the appliances. Each model may have several appliances.
+ 
+-- TABLE rrcustomer
+-- stores the customer's details.
+---------------------------------------------------------------------
+
+ALTER SESSION SET NLS_DATE_FORMAT='YYYY/MM/DD';
+
+DROP TABLE models CASCADE CONSTRAINT;
+DROP TABLE hire CASCADE CONSTRAINT;
+DROP TABLE appliance CASCADE CONSTRAINT;
+DROP TABLE rrcustomer CASCADE CONSTRAINT;
+
+CREATE TABLE rrcustomer ( 
+      cust_num CHAR(4) PRIMARY KEY,
+      title CHAR(4), 
+      name VARCHAR(20)   ) ;
+
+CREATE TABLE models ( 
+      model_code CHAR(5) PRIMARY KEY,
+      name VARCHAR(40), 
+      mth_charge NUMBER(6,2)  );
+
+CREATE TABLE appliance ( 
+     stock_num CHAR(4) PRIMARY KEY,
+     model_num CHAR(5), 
+     condition1 CHAR,
+     date_maint DATE, 
+	FOREIGN KEY (model_num) REFERENCES MODELS(MODEL_CODE));
+
+CREATE TABLE hire  ( 
+      CONSTRAINT PK_HIRE PRIMARY KEY (stock_num , date_hired),
+      stock_num CHAR(4),
+      date_hired DATE,
+      cust_num CHAR(4), 
+      paid_till DATE, 
+      date_ret DATE,
+	FOREIGN KEY (stock_num) REFERENCES APPLIANCE(stock_num),
+	FOREIGN KEY (cust_num) REFERENCES rrcUSTOMER(cust_num) );   
+
+INSERT INTO rrcustomer VALUES ('1011','Dr','Brento');
+INSERT INTO rrcustomer VALUES ('1012','Dr','Haya');
+INSERT INTO rrcustomer VALUES ('1013','Ms','Grace');
+INSERT INTO rrcustomer VALUES ('1014','Mr','Syed');
+INSERT INTO rrcustomer VALUES ('1015','Dr','Victoria');
+INSERT INTO rrcustomer VALUES ('1016','Mr','Jansen');
+INSERT INTO rrcustomer VALUES ('1017','Ms','Tomei');
+
+INSERT INTO models VALUES ('LGC83','LG C1 83 in OLED 4K TV',500) ;
+INSERT INTO models VALUES ('LGG77','LG Gallery 77 in OLED 4K TV',400) ;
+INSERT INTO models VALUES ('SNY43','Sony 43 in X75 4K Ultra HD Android TV',200) ;
+INSERT INTO models VALUES ('SHA50','Sharp 50 in  Full HD Basic TV',80) ;
+
+INSERT INTO appliance VALUES ('2010','LGC83','E',  null) ;
+INSERT INTO appliance VALUES ('2011','LGC83','E',  null) ;
+INSERT INTO appliance VALUES ('2012','LGG77','E',  null) ;
+INSERT INTO appliance VALUES ('2013','LGG77','E',  null) ;
+INSERT INTO appliance VALUES ('2014','SNY43','E',  null) ;
+INSERT INTO appliance VALUES ('2015','LGC83','E',  null) ;
+INSERT INTO appliance VALUES ('2016','SHA50','E',  null) ;
+INSERT INTO appliance VALUES ('2017','SHA50','E',  null) ;
+
+INSERT INTO hire VALUES ('2010','2021/08/02','1011', '2021/08/08','2021/08/18') ;
+INSERT INTO hire VALUES ('2010','2021/08/22','1012', '2021/08/28','2021/08/28') ;
+INSERT INTO hire VALUES ('2011','2023/08/12','1013', '2023/08/18',NULL) ;
+INSERT INTO hire VALUES ('2013','2023/08/02','1013', '2023/08/08',NULL) ;
+INSERT INTO hire VALUES ('2012','2021/08/02','1014', '2021/08/07','2021/12/11') ;
+INSERT INTO hire VALUES ('2017','2023/08/12','1017', '2023/08/18',NULL) ;
+INSERT INTO hire VALUES ('2016','2021/08/02','1011', '2021/08/28','2021/08/18') ;
+INSERT INTO hire VALUES ('2014','2024/04/12','1014','2024/04/18',NULL);
+INSERT INTO hire VALUES ('2010','2024/03/26','1011', '2023/09/30',NULL) ;
+INSERT INTO hire VALUES ('2015','2021/08/22','1012','2021/08/28','2021/08/28');
+INSERT INTO hire VALUES ('2015','2024/04/22','1012','2024/08/28',NULL);
