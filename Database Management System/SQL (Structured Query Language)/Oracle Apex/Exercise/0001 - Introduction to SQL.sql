@@ -1,10 +1,11 @@
 -- Exercise 1
--- a) Create a table called student with the following attributes: 
+# -- a) Create a table called student with the following attributes: 
 -- i. name as VARCHAR2 with the size of 20 characters 
 -- ii. gender as a CHAR of 6 characters 
 -- iii. DOB as a DATE 
 -- iv. CGPA as a NUMBER with one decimal 
 
+-- Answer:
 -- Create the student table
 CREATE TABLE student (
     name VARCHAR2(20),
