@@ -40,5 +40,15 @@ Use the following videos on YouTube to consolidate your understanding of this ch
 ### 0004 - Entity-Relationship Modeling
 
 ### 0005 - Normalization of Database Tables
+- [Functional Dependency](https://www.youtube.com/watch?v=VFuAwSoMatw)
+- [Functional Dependency](https://www.youtube.com/watch?v=xaVhv8cljSs)
+(interesting illustration using color and shape!)
+- [Functional Dependency](https://www.youtube.com/watch?v=4FGDJ41u7UQ)
 
-### 0006 - Structured Query Language (SQL)
+- [Normalisation Process](https://www.youtube.com/watch?v=VyzKDc2GyW4)
+- [Normalisation Process](https://www.youtube.com/watch?v=UrYLYV7WSHM)
+(watch till 1NF)
+- [Normalisation Process](https://www.youtube.com/watch?v=J-drts33N8g)
+- [Normalisation Process 2NF](https://www.youtube.com/watch?v=R7UblSu4744)
+- [Normalisation Process 2NF](https://www.youtube.com/watch?v=9L10Q1nAfyg)
+- [Normalisation Process 3NF](https://www.youtube.com/watch?v=_K7fcFQowy8)
