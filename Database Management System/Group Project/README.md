@@ -1,4 +1,4 @@
-# TITLE: 0001 - Project 1.PDF
-* FROM: SUNWAY - SCHOOL OF ENGINEERING AND TECHNOLOGY
-* COURSEWORK FOR: BSC (HONS) INFORMATION SYSTEMS (DATA ANALYTICS)
-* COURSE: SEG1201: DATABASE FUNDAMENTALS
+# Title: 0001 - Project 1.Pdf
+* From: Sunway - School Of Engineering And Technology
+* Coursework For: BSc (Hons) Information Systems (Data Analytics)
+* Course: SEG1201: Database Fundamentals
