@@ -1,4 +1,4 @@
-* Book Name: **SQL All-in-One For Dummies (For Dummies (Computer/Tech))** 
+# Book Name: **SQL All-in-One For Dummies (For Dummies (Computer/Tech))** 
 * Edition: 4th Edition
 * Author: Allen G. Taylor, Richard Blum
 * Publisher: For Dummies
@@ -6,7 +6,7 @@
 * Pages: 800
 
 
-* Book Name: **SQL All-in-One For Dummies (For Dummies (Computer/Tech))** 
+# Book Name: **SQL All-in-One For Dummies (For Dummies (Computer/Tech))** 
 * Edition: 4th Edition
 * Author: Allen G. Taylor, Richard Blum
 * Publisher: For Dummies
