@@ -1,6 +1,7 @@
-## Review Questions (Short Answer)
+# Review Questions (Short Answer)
 
-**Question 1: How do the main memory and the secondary storage of a computer differ from each other?**
+## Question 1: 
+How do the main memory and the secondary storage of a computer differ from each other?**
 - **Answer:** Primary storage, also called main memory or memory, is closely associated with the CPU. Memory holds program instructions and data immediately before or after the registers. Compared with memory, secondary storage offers the advantages of nonvolatility, greater capacity, and greater economy. On a cost-per-megabyte basis, secondary storage is considerably less expensive than primary memory.
 
 **Question 2: What number does a bit that is turned on represent? What number does a bit that is turned off represent?**
