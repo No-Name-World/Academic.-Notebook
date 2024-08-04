@@ -64,3 +64,40 @@ The encoding scheme that is extensive enough to represent the characters of many
 
 ### 1.17 What do the terms “digital data” and “digital device” mean?
 “Digital data” refers to data that is represented in a discrete, binary format (0s and 1s), while a “digital device” is any device that processes or uses digital data, such as computers, smartphones, and digital cameras.
+
+
+### 1.18 A CPU understands instructions that are written only in what language?
+A CPU understands instructions that are written only in machine language.
+
+
+### 1.19 A program has to be copied into what type of memory each time the CPU executes it?
+A program has to be copied into main memory (RAM) each time the CPU executes it.
+
+
+### 1.20 When a CPU executes the instructions in a program, it is engaged in what process?
+When a CPU executes the instructions in a program, it is engaged in the process of instruction execution or program execution.
+
+
+### 1.21 What is assembly language?
+Assembly language is a low-level programming language that is one step above machine language and uses symbolic names to represent machine language instructions.
+
+
+### 1.22 What type of programming language allows you to create powerful and complex programs without knowing how the CPU works?
+High-level programming languages allow you to create powerful and complex programs without knowing how the CPU works.
+
+
+### 1.23 Each language has a set of rules that must be strictly followed when writing a program. What is this set of rules called?
+This set of rules is called the syntax of the language.
+
+
+### 1.24 What do you call a program that translates a high-level language program into a separate machine language program?
+A program that translates a high-level language program into a separate machine language program is called a compiler.
+
+
+### 1.25 What do you call a program that both translates and executes the instructions in a high-level language program?
+A program that both translates and executes the instructions in a high-level language program is called an interpreter.
+
+
+### 1.26 What type of mistake is usually caused by a misspelled keyword, a missing punctuation character, or the incorrect use of an operator?
+This type of mistake is usually called a syntax error.
+
