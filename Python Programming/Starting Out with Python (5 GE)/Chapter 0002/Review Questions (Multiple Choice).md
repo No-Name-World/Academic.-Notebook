@@ -1,6 +1,6 @@
 # Review Questions (Multiple Choice)
 
-##Question 1: 
+## Question 1: 
 A __________ error does not prevent the program from running but causes it to produce incorrect results.
 - a. syntax
 - b. hardware
@@ -9,7 +9,7 @@ A __________ error does not prevent the program from running but causes it to pr
 
 **Answer**: c. logic
 
-##Question 2**: 
+## Question 2: 
 A __________ is a single function that the program must perform in order to satisfy the customer.
 - a. task
 - b. software requirement
