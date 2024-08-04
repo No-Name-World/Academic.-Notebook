@@ -18,7 +18,8 @@ A __________ is a single function that the program must perform in order to sati
 
 **Answer**: b. software requirement
 
-**Question 3**: A(n) __________ is a set of well-defined logical steps that must be taken to perform a task.
+## Question 3: 
+A(n) __________ is a set of well-defined logical steps that must be taken to perform a task.
 - a. logarithm
 - b. plan of action
 - c. logic schedule
@@ -26,7 +27,8 @@ A __________ is a single function that the program must perform in order to sati
 
 **Answer**: d. algorithm
 
-**Question 4**: An informal language that has no syntax rules and is not meant to be compiled or executed is called __________.
+## Question 4: 
+An informal language that has no syntax rules and is not meant to be compiled or executed is called __________.
 - a. faux code
 - b. pseudocode
 - c. Python
@@ -34,7 +36,8 @@ A __________ is a single function that the program must perform in order to sati
 
 **Answer**: b. pseudocode
 
-**Question 5**: A __________ is a diagram that graphically depicts the steps that take place in a program.
+## Question 5: 
+A __________ is a diagram that graphically depicts the steps that take place in a program.
 - a. flowchart
 - b. step chart
 - c. code graph
@@ -42,7 +45,8 @@ A __________ is a single function that the program must perform in order to sati
 
 **Answer**: a. flowchart
 
-**Question 6**: A __________ is a sequence of characters.
+## Question 6: 
+A __________ is a sequence of characters.
 - a. char sequence
 - b. character collection
 - c. string
