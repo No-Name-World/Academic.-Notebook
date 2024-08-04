@@ -17,7 +17,7 @@
 - **ISBN-13:** 978-6200115560
 
 
-## Think Python: How to Think Like a Computer Scientist (3rd Edition)
+## [Think Python: How to Think Like a Computer Scientist (3rd Edition)](https://allendowney.github.io/ThinkPython/index.html)
 - **Author:** Allen B. Downey
 - **Publisher:** O'Reilly Media
 - **ISBN-13:** 978-1098155438
