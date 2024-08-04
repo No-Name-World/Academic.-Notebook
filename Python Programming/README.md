@@ -23,8 +23,8 @@
 - **ISBN-13:** 978-1098155438
 
 
-## Think Python: How to Think Like a Computer Scientist (2nd Edition)
+## [Think Python: How to Think Like a Computer Scientist (2nd Edition)](https://greenteapress.com/wp/think-python-2e/)
 - **Author:** Allen B. Downey
 - **Publisher:** O'Reilly Media
 - **ISBN-13:** 978-1491939369
-- **Remark:** Lecture Slide
+- **Remark:** [Lecture Slide](https://www.cs.cornell.edu/courses/cs1110/2016sp/lectures/index.php.html)
