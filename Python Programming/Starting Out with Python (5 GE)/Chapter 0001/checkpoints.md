@@ -37,6 +37,30 @@ The operating system is the fundamental set of programs that control the interna
 ### 1.10 What do you call a program that performs a specialized task, such as a virus scanner, a file compression program, or a data backup program?
 A program that performs a specialized task is called a utility program.
 
-### 1.11 Word processing programs, spreadsheet programs, email programs, web browsers, and game programs belong to what category of software?
 
+### 1.11 Word processing programs, spreadsheet programs, email programs, web browsers, and game programs belong to what category of software?
 Word processing programs, spreadsheet programs, email programs, web browsers, and game programs belong to the category of application software.
+
+
+### 1.12 What amount of memory is enough to store a letter of the alphabet or a small number?
+A single byte of memory is enough to store a letter of the alphabet or a small number.
+
+
+### 1.13 What do you call a tiny “switch” that can be set to either on or off?
+A tiny “switch” that can be set to either on or off is called a bit.
+
+
+### 1.14 In what numbering system are all numeric values written as sequences of 0s and 1s?
+All numeric values are written as sequences of 0s and 1s in the binary numbering system.
+
+
+### 1.15 What is the purpose of ASCII?
+The purpose of ASCII (American Standard Code for Information Interchange) is to represent text in computers, telecommunications equipment, and other devices that use text. It is an encoding scheme that uses a set of 128 numeric codes to represent English letters, various punctuation marks, and other characters. These numeric codes are used to store characters in a computer’s memory. (ASCII stands for the American Standard Code for Information Interchange.)
+
+
+### 1.16 What encoding scheme is extensive enough to represent the characters of many of the languages in the world?
+The encoding scheme that is extensive enough to represent the characters of many of the languages in the world is Unicode.
+
+
+### 1.17 What do the terms “digital data” and “digital device” mean?
+“Digital data” refers to data that is represented in a discrete, binary format (0s and 1s), while a “digital device” is any device that processes or uses digital data, such as computers, smartphones, and digital cameras.
