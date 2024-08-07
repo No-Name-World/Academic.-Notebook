@@ -4,6 +4,7 @@
 - **Author:** H. Bhasin
 - **Publisher:** Mercury Learning and Information
 - **ISBN-13:** 978-1683923534
+- **Remark:** December 2018, 450 Pages
 
 
 ## Starting Out with Python
@@ -11,13 +12,8 @@
 - **Author:** Tony Gaddis
 - **Publisher:** Pearson
 - **ISBN-13:** 978-1292408552
+- **Remark:** June 2021, 895 Pages
 - S0Wpyt@n12!! + !!21n@typW0S
-
-## Problem Solving with Algorithms and Data Structures using Python
-- **Edition:** -
-- **Authors:** Mahesh Kumar Thota, Kamakshi Pille
-- **Publisher:** LAP Lambert Academic Publishing
-- **ISBN-13:** 978-6200115560
 
 
 ## [Think Python: How to Think Like a Computer Scientist (3rd Edition)](https://allendowney.github.io/ThinkPython/index.html)
@@ -25,14 +21,9 @@
 - **Author:** Allen B. Downey
 - **Publisher:** O'Reilly Media
 - **ISBN-13:** 978-1098155438
-
-
-## [Think Python: How to Think Like a Computer Scientist (2nd Edition)](https://greenteapress.com/wp/think-python-2e/)
-- **Edition:** 2nd
-- **Author:** Allen B. Downey
-- **Publisher:** O'Reilly Media
-- **ISBN-13:** 978-1491939369
-- **Remark:** [Lecture Slide](https://www.cs.cornell.edu/courses/cs1110/2016sp/lectures/index.php.html)
+- **Remark:** July 2024, 325 Pages
+- **Remark:** [Think Python: How to Think Like a Computer Scientist (2nd Edition)](https://greenteapress.com/wp/think-python-2e/)
+- **Remark 2nd Edition:** [Lecture Slide](https://www.cs.cornell.edu/courses/cs1110/2016sp/lectures/index.php.html)
 
 
 ## Simple Program Design, A Step-by-Step Approach
@@ -40,6 +31,7 @@
 - **Author:** Lesley Anne Robertson 
 - **Publisher:** Cengage Learning
 - **ISBN-13:** 978-1423901327
+- **Remark:** September 2006, 347 Pages
 
 
 ## Introduction to Computing Using Python: An Application Development Focus
