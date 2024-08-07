@@ -42,9 +42,9 @@
 - **ISBN-13:** 978-1423901327
 
 
-## Book Title:** Introduction to Computing Using Python: An Application Development Focus
-   - **Edition:** 2nd
-   - **Authors:** Ljubomir Perkovic
-   - **Publisher:** Wiley
-   - **ISBN-13:** 978-1119132974
-   - **Publication Date:** April 20, 2015
+## Introduction to Computing Using Python: An Application Development Focus
+- **Edition:** 2nd
+- **Authors:** Ljubomir Perkovic
+- **Publisher:** Wiley
+- **ISBN-13:** 978-1119132974
+- **Remark:** April 2015, 480 Pages
