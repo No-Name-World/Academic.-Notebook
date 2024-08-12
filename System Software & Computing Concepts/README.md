@@ -5,6 +5,7 @@
 - **Publisher:** Wiley
 - **ISBN-13:** 978-1119494843
 - **Remark:** March 2021, 672 pages
+- S0Wpyt@n12!! + !!21n@typW0S
 
 
 ## Computer Systems: An Embedded Approach
