@@ -2,16 +2,6 @@
 - **Subject Name:** Database Management System (DBMS)
 
 
-
-## Assigned Text
-- **Book Title:** Database Systems: Design, Implementation, & Management (MindTap Course List)
-- **Edition:** 14th Edition
-- **Author:** Carlos Coronel, Steven Morris
-- **Publisher:** Cengage Learning
-- **ISBN-13:** 978-0357673034
-
-
-
 ## Course Schedule
 ### 0001 - Introduction
 Use the following videos on YouTube to consolidate your understanding of this chapter.
