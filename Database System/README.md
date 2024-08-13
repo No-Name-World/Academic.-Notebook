@@ -5,6 +5,7 @@
 - **Publisher:** Cengage Learning
 - **ISBN-13:** 978-0357673034
 - **Remark:** December 2022, 816 Pages
+- S0Wpyt@n12!!
 
 
 ## Database Concepts
