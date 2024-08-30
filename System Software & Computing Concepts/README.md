@@ -1,4 +1,12 @@
 # System Software & Computing Concepts Resources - Textbook
+## Cambridge IGCSE and O Level Computer Science
+- **Edition:** 2nd
+- **Author:** David Watson, Helen Williams
+- **Publisher:** Hodder Education Group
+- **ISBN-13:** 978-1398318281
+- **Remark:** June 2021, 400 pages
+
+
 ## The Architecture of Computer Hardware, Systems Software, and Networking: An Information Technology Approach 
 - **Edition:** 6th
 - **Author:** Irv Englander, Wilson Wong 
