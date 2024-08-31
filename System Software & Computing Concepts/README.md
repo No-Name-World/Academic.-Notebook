@@ -1,6 +1,6 @@
 # System Software & Computing Concepts Resources - Textbook
-#
-#
+
+
 ## Cambridge IGCSE and O Level Computer Science
 - **Edition:** 2nd
 - **Author:** David Watson, Helen Williams
