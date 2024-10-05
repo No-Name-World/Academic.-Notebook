@@ -7,7 +7,7 @@
    - **Remark:** June 10, 2021
 
 
-2. **Book Title:** Networking All-in-One For Dummies
+2. **Book Title:** Networking All-In-One For Dummies
    - **Edition:** 8th
    - **Author:** Doug Lowe 
    - **Publisher:** For Dummies
