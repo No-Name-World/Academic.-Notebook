@@ -1,7 +1,6 @@
 # Supplementary Chapters
-
-For additional resources, visit [www.wiley.com/Englander6e](http://www.wiley.com/Englander6e).
-S0Wpyt@n12!!
+- For additional resources, visit [www.wiley.com/Englander6e](http://www.wiley.com/Englander6e).
+- S0Wpyt@n12!!
 
 ## Supplementary Chapter 1: An Introduction to Digital Computer Logic
 
