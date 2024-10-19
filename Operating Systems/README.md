@@ -7,7 +7,6 @@
    - **Publisher:** Hodder Education Group
    - **ISBN-13:** 978-1398318281
    - **Remark:** June 2021, 400 pages
-   - S***y+Priv@te_&R00m
 
 
 2. **Book Title:** Operating System Concepts
@@ -33,3 +32,4 @@
    - **ISBN-13:** 978-1119494843
    - **Remark:** March 2021, 672 pages
    - S0Wpyt@n12!! + !!21n@typW0S
+   - S***y+Priv@te_&R00m
