@@ -1,4 +1,4 @@
-# Book Catalog
+# Education Textbook
 
 ## Computer Science and Information Technology
 
